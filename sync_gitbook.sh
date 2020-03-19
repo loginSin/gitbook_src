@@ -1,5 +1,7 @@
 #!/bin/bash
 
+gitbook build
+
 message=`git show -s --format=%s`
 
 cp -rf _book/* ../gitbook/
