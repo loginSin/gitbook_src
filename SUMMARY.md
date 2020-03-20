@@ -3,8 +3,14 @@
 * [关于 GitBook](AboutGitBook.md)
 
 * Linux
+    * [Linux 常用命令](linux/CommonCommands.md)
+    * [Linux expect 快捷登录](linux/Expect.md)
+    * [Linux ssh 登录](linux/SSH.md)
     * CentOS
         * [Centos 安装 git](linux/centos/InstallGit.md)
+        * [Centos 安装 mysql](linux/centos/InstallMysql.md)
+    * Ubuntu
+        * [Ubuntu 运行 shell 出错](linux/ubuntu/RunShell.md)
 
 * Git
     * [Git 多账号](git/MultipleAccounts.md)

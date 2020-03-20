@@ -3,10 +3,10 @@
 > 仓库迁移
 
 ```
-$ git clone --bare git@gitlab.rongcloud.net/username/project.git
+$ git clone --bare git@gitlab.company.net/username/project.git
 $ cd project
 // 创建新远程仓库
-$ git push --mirror git@gitlab2.rongcloud.net/username/newproject.git
+$ git push --mirror git@gitlab2.company.net/username/newproject.git
 ```
 
 > 彻底清除历史记录
