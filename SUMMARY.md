@@ -17,3 +17,5 @@
     * iOS
         * [iOS 解压静态库](ios/ios/UnzipStaticLib.md)
         * [iOS https 降级](ios/ios/Https.md)
+        * [iOS 制作 .framework](ios/ios/CreateFramework.md)
+        * [iOS 制作 .a](ios/ios/CreateA.md)
