@@ -8,3 +8,7 @@
 
 * Git
     * [Git 多账号](git/MultipleAccounts.md)
+
+* iOS
+    * Mac
+        * [Mac 关闭 rootless](ios/mac/RootLess.md)
