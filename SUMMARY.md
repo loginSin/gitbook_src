@@ -12,3 +12,5 @@
 * iOS
     * Mac
         * [Mac 关闭 rootless](ios/mac/RootLess.md)
+    * iOS
+        * [iOS 解压静态库](ios/ios/UnzipStaticLib.md)
