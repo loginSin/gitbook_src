@@ -3,7 +3,8 @@
         "uml",
         "auto-scroll-table",
         "back-to-top-button",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "expandable-chapters"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
