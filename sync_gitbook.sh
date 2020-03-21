@@ -6,17 +6,19 @@ gitbook build
 
 message=`git show -s --format=%s`
 
-
-echo "** copy doc to gitbook"
-
-cp -rf _book/* ../gitbook/
-
-
-echo "** push doc to github"
+echo "** pull remote doc"
 
 cd ../gitbook
 
 git pull
+
+
+echo "** copy doc to gitbook"
+
+cp -rf ../gitbook_src/_book/* ./
+
+
+echo "** push doc to github"
 
 git add .
 
