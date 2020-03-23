@@ -24,6 +24,7 @@
         * [Mac 关闭 rootless](ios/mac/RootLess.md)
         * [Mac 软件损坏](ios/mac/SoftwareError.md)
     * iOS
+        * [iOS 常见命令](ios/ios/CommonCommands.md)
         * [iOS 解压静态库](ios/ios/UnzipStaticLib.md)
         * [iOS https 降级](ios/ios/Https.md) 
         * [iOS 制作 .framework](ios/ios/CreateFramework.md)
