@@ -8,6 +8,8 @@
         * [Centos 安装 mysql](linux/centos/InstallMysql.md)
     * Ubuntu
         * [Ubuntu 运行 shell 出错](linux/ubuntu/RunShell.md)
+    * Shell
+        * [Shell 相关](linux/shell/AboutShell.md)
         
     * [Linux 常用命令](linux/CommonCommands.md)
     * [Linux expect 快捷登录](linux/Expect.md)
