@@ -31,3 +31,9 @@ IFS_old=$IFS
 
 IFS=$IFS_old
 ```
+
+> 查看文件夹中多个日志文件中含有特定关键字的次数
+
+```
+cat -n * | grep "get_start" -c
+```
