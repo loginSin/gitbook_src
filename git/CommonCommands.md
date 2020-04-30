@@ -58,3 +58,15 @@ echo `git rev-parse --short HEAD`
 > 管理 github 大文件
 
 [git-lfs](https://git-lfs.github.com/)
+
+> 查看某个节点所属分支
+
+```
+git branch --contains 779c97c7c
+```
+
+> 查看具体的节点信息
+
+```
+git show 779c97c7c
+```
