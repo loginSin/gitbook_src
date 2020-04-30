@@ -45,7 +45,7 @@
     * [Jenkins 2.配置打包参数](jenkins/Chapter2.md)
     * [Jenkins 3.打包参数原理](jenkins/Chapter3.md)
     * [Jenkins 4.内部目录讲解](jenkins/Chapter4.md)
-    * [Jenkins 5.编译脚本分离](jenkins/Chapter4.md)
+    * [Jenkins 5.编译脚本分离](jenkins/Chapter5.md)
     * [Jenkins 6.保存输出](jenkins/Chapter4.md)
     * [Jenkins 7.参数读取 git 分支](jenkins/Chapter4.md)
     * [Jenkins 8.编译失败排查](jenkins/Chapter4.md)
