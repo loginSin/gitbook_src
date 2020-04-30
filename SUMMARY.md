@@ -41,3 +41,4 @@
 
 * Jenkins
     * [Jenkins 初探](jenkins/README.md)
+    * [Jenkins 创建简单项目](jenkins/Chapter1.md)
