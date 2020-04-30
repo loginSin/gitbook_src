@@ -9,7 +9,7 @@ Jenkins 常用的开源 CI&CD 工具，简单一句话概括：凡是能用 shel
 ```
 核心: Linux/Shell
 
-其他: python/ssh
+其他: python/ssh/git
 ```
 
 下载并运行 Jenkins

@@ -41,6 +41,7 @@
 
 * Jenkins
     * [Jenkins 初探](jenkins/README.md)
-    * [Jenkins 创建简单项目](jenkins/Chapter1.md)
-    * [Jenkins 配置打包参数](jenkins/Chapter2.md)
-    * [Jenkins 打包参数原理](jenkins/Chapter3.md)
+    * [Jenkins 1.创建简单项目](jenkins/Chapter1.md)
+    * [Jenkins 2.配置打包参数](jenkins/Chapter2.md)
+    * [Jenkins 3.打包参数原理](jenkins/Chapter3.md)
+    * [Jenkins 4.内部目录讲解](jenkins/Chapter3.md)
