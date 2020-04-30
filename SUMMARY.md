@@ -50,3 +50,4 @@
     * [Jenkins 7.参数读取 git 分支](jenkins/Chapter7.md)
     * [Jenkins 8.编译失败排查](jenkins/Chapter8.md)
     <!-- * [Jenkins 9.Pipline 项目编译](jenkins/Chapter4.md) -->
+    <!-- * [Jenkins 10.master-slave](jenkins/Chapter8.md) -->
