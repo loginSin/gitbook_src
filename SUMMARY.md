@@ -38,3 +38,6 @@
     * [Python 目录操作](python/Dir.md)
     * [Python shell 简单参数处理](python/Param.md)
     * [Python shell 复杂参数处理](python/ParamFlag.md)
+
+* Jenkins
+    * [Jenkins 初探](jenkins/README.md)
