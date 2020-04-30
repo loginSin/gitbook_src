@@ -4,6 +4,8 @@
 
 Jenkins 常用的开源 CI&CD 工具，简单一句话概括：凡是能用 shell 跑起来的项目，就可以使用 Jenkins 自动化处理
 
+Jenkins 系列文章均在 Linux 和 macOS 环境下操作
+
 使用 Jenkins 需要掌握的基本技能
 
 ```
