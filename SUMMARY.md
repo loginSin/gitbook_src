@@ -29,6 +29,7 @@
         * [iOS https 降级](ios/ios/Https.md) 
         * [iOS 制作 .framework](ios/ios/CreateFramework.md)
         * [iOS 制作 .a](ios/ios/CreateA.md)
+        * [iOS 崩溃日志分析](ios/ios/CrashLogAnalysis.md)
 
 * Flutter
     * [Flutter pb install](flutter/InstallPb.md)
